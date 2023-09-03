@@ -14,6 +14,7 @@ The band gap is inversely proportional to the square root of the dielectric cons
 - Semiconductors: 2-3 eV
 - Insulators: 3-4 eV
 
+
 ## Data:
 The dataset, sourced from **Matminer** (an open-source Python library for material science datasets), comprises approximately 1100 different compounds. Data preprocessing steps involved the removal of certain features, encoding specific columns, and restructuring the dataset for optimal compatibility with ML models.
 
